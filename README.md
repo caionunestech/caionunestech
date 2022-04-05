@@ -1,20 +1,14 @@
   <div align="center">
   <h1><b>Olá ! Eu sou o Caio, seu Desenvolvedor Júnior!</b></h1>
   <p>✨Aqui estão projetos iniciados, finalizados, em desenvolvimento e testes.✨</p>
-  <h3> Redes Sociais </h3>
-  <div> 
-  <a href="https://instagram.com/caionunez_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/caionunestech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  </div>
-  
-##
+ 
 
-<div align="center">
+  <div align="center">
   <a href="https://github.com/caionunestech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caionunestech&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionunestech&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
+  </div>
   
   ##
   
@@ -33,9 +27,10 @@
   ##
 
   <h3> Contato </h3>
-  <div style="display: inline_block"><br>
-  <a href="https://instagram.com/caionunez_" target="_blank"><img align="center" alt="Caio-WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <div style="display: inline_block">
+  <a href="https://api.whatsapp.com/send?l=pt_pt&phone=5571993100444" target="_blank"><img align="center" alt="Caio-WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     <a href = "mailto:caionunes2801@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/caionunestech/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
 
