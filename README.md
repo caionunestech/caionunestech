@@ -1,5 +1,5 @@
   <div align="center">
-  <h1>Olá ! Eu sou o Caio, seu Desenvolvedor Júnior!</h1>
+  <h1><b>Olá ! Eu sou o Caio, seu Desenvolvedor Júnior!</b></h1>
   <p>✨Aqui estão projetos iniciados, finalizados, em desenvolvimento e testes.✨</p>
   <h3> Redes Sociais </h3>
   <div> 
