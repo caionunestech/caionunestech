@@ -40,5 +40,6 @@
   ##
 
   ![Snake animation](https://github.com/caionunestech/caionunestech/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
     
 
