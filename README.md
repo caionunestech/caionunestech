@@ -1,5 +1,6 @@
   <div align="center">
   <h1>Olá ! Eu sou o Caio, seu Desenvolvedor Júnior!</h1>
+  <p>✨Aqui estão projetos iniciados, finalizados, em desenvolvimento e testes.✨</p>
   <h3> Redes Sociais </h3>
   <div> 
   <a href="https://instagram.com/caionunez_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -7,7 +8,7 @@
   </div>
   </div>
   
-  ##
+##
 
 <div align="center">
   <a href="https://github.com/caionunestech">
