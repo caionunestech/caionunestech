@@ -1,6 +1,4 @@
-  <div align="center">
-  <p>✨Aqui estão projetos iniciados, finalizados, em desenvolvimento e testes.✨</p>
-  </div>
+
  
 
   <div align="center">
