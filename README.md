@@ -30,7 +30,12 @@
     <a href="https://www.linkedin.com/in/caionunestech/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
-
+  
+   <h3>Currículo</h3>
+   ![_Currículo (1)](https://user-images.githubusercontent.com/85846841/175824490-f3124b8f-d190-46dd-800a-a9a48eee6c71.png)
+  
+  ##
+   
   ![Snake animation](https://github.com/caionunestech/caionunestech/blob/output/github-contribution-grid-snake.svg)
   ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
     
