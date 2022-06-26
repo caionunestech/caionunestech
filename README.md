@@ -32,7 +32,7 @@
   ##
   
    <h3>Currículo</h3>
-   ![_Currículo (1)](https://user-images.githubusercontent.com/85846841/175824490-f3124b8f-d190-46dd-800a-a9a48eee6c71.png)
+   <img src="https://user-images.githubusercontent.com/85846841/175825036-298a5db3-01d1-416e-9efc-2417f9b3e723.png" width="850px" />
   
   ##
    
