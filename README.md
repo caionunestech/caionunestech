@@ -1,5 +1,8 @@
-
+ <div align="center">
+ <h3> General Achievements </h3>
+ </div>
  
+## 
 
   <div align="center">
   <a href="https://github.com/caionunestech">
@@ -10,7 +13,7 @@
   ##
   
   <div align="center">
-  <h3> Tecnologias utilizadas </h3>
+  <h3> Most Used Technologies </h3>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -23,7 +26,7 @@
     
   ##
 
-  <h3> Contato </h3>
+  <h3> Contact </h3>
   <div style="display: inline_block">
   <a href="https://api.whatsapp.com/send?l=pt_pt&phone=5571993100444" target="_blank"><img align="center" alt="Caio-WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     <a href = "mailto:caionunes2801@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,8 +34,8 @@
   
   ##
   
-   <h3>Currículo</h3>
-   <img src="https://user-images.githubusercontent.com/85846841/175825036-298a5db3-01d1-416e-9efc-2417f9b3e723.png" width="800px" />
+   <h3>Resume</h3>
+   <img src="https://user-images.githubusercontent.com/85846841/175828315-690b6368-0bc3-4898-b0f6-203a7b342442.png" width="820px" />
   
   ##
    
