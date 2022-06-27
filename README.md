@@ -35,7 +35,7 @@
   ##
   
    <h3>Resume</h3>
-   <img src="https://user-images.githubusercontent.com/85846841/175828315-690b6368-0bc3-4898-b0f6-203a7b342442.png" width="820px" />
+   <img src="https://user-images.githubusercontent.com/85846841/175845576-bbb9beaf-bd79-41f1-b902-2dbe3128eb04.png" width="820px" />
   
   ##
    
